@@ -1,24 +1,3 @@
 {
-  "todo": [
-    {
-      "title": "Sugar",
-      "id": "1667141478577Sugar",
-      "status": false
-    },
-    {
-      "title": "Milk",
-      "id": "1667144857302Milk",
-      "status": false
-    },
-    {
-      "title": "Ice-cream",
-      "id": "1667144881213Ice-cream",
-      "status": false
-    },
-    {
-      "title": "Gojhiya",
-      "id": "1667146118875Gojhiya",
-      "status": false
-    }
-  ]
+  "user": []
 }
