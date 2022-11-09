@@ -1,3 +1,317 @@
 {
-  "user": []
+  "Car": [
+    {
+      "id": "1",
+      "image": "https://apollo-singapore.akamaized.net/v1/files/nzt36r3hyf4t2-IN/image;s=300x600;q=60",
+      "price": 665000,
+      "post": 2020,
+      "category" : "Car",
+      "model": "Maruti Suzuki",
+      "name": "Swift",
+      "location": "Anjana nagar"
+    },
+    {
+      "id" : "8",
+      "image" : "https://apollo-singapore.akamaized.net/v1/files/a9mstqlmrsqn-IN/image;s=300x600;q=60",
+      "price": 650000,
+      "post": 2016,
+      "category" : "Car",
+      "model": "Mahindra",
+      "name": "Bolero",
+      "location": "Kalkaji"
+    },
+    {
+      "id" : "9",
+      "image" : "https://apollo-singapore.akamaized.net/v1/files/by1gteopasl31-IN/image;s=1080x1080",
+      "price": 1451000,
+      "post": 2015,
+      "category" : "Car",
+      "model": "Mahindra Thar",
+      "name": "XUV500",
+      "location": "Patel Nagar"
+    },
+    {
+        "id": "4",
+        "image": "https://apollo-singapore.akamaized.net/v1/files/nuc73otitq5k3-IN/image;s=200x400;q=60",
+        "price": 605000,
+        "post": 2016,
+        "category" : "Car",
+        "model": "Maruti Suzuki",
+        "name": "Baleno",
+        "location": "Maa Vidhar Colony"
+    },
+    {
+        "id": "5",
+        "image": "https://apollo-singapore.akamaized.net/v1/files/cvtplhtyzg1e3-IN/image;s=200x400;q=60",
+        "price": 305000,
+        "post": 2017,
+        "category" : "Car",
+        "model": "Maruti Suzuki",
+        "name": "Dzire",
+        "location": "Maa Vidhar Colony"
+    },
+    {
+      "id" : "6",
+      "image" : "https://apollo-singapore.akamaized.net/v1/files/cgisze1jow6v3-IN/image;s=200x400;q=60",
+      "price": 186000,
+      "post": 2015,
+      "category" : "Car",
+      "model": "Maruti Suzuki",
+      "name": "Omni",
+      "location": "Maa Vidhar Colony"
+    },
+    {
+      "id" : "17",
+      "image" : "https://apollo-singapore.akamaized.net/v1/files/51i5sh3s5hsb-IN/image;s=200x400;q=60",
+      "price": 510000,
+      "post": 2017,
+      "category" : "Car",
+      "model": "Hyudai",
+      "name": "Grand i10",
+      "location": "Paschim Vihar"
+    },
+    {
+      "id" : "18",
+      "image" : "https://apollo-singapore.akamaized.net/v1/files/e7gw0e0tt7053-IN/image;s=200x400;q=60",
+      "price": 495000,
+      "post": 2014,
+      "category" : "Car",
+      "model": "Hyudai",
+      "name": "Elite i20",
+      "location": "Paschim Vihar"
+    },
+    {
+      "id" : "7",
+      "image" : "https://apollo-singapore.akamaized.net/v1/files/f0hg1ol682aa2-IN/image;s=300x600;q=60",
+      "price": 970000,
+      "post": 2017,
+      "category" : "Car",
+      "model": "Mahindra",
+      "name": "XUV500",
+      "location": "Begaria"
+    },
+    {
+      "id": "2",
+      "image": "https://apollo-singapore.akamaized.net/v1/files/buyih3yb3nhd2-IN/image;s=300x600;q=60",
+      "price": 850000,
+      "post": 2018,
+      "category" : "Car",
+      "model": "Maruti Suzuki",
+      "name": "Celerio",
+      "location": "Chamarajpet"
+    },
+    {
+      "id": "3",
+      "image": "https://apollo-singapore.akamaized.net/v1/files/018bois1u9d52-IN/image;s=300x600;q=60",
+      "price": 985000,
+      "post": 2020,
+      "category" : "Car",
+      "model": "Maruti Suzuki",
+      "name": "Ertiga",
+      "location": "Navrangpura"
+    },
+    {
+      "id" : "10",
+      "image" : "https://apollo-singapore.akamaized.net/v1/files/f0hg1ol682aa2-IN/image;s=300x600;q=60",
+      "price": 970000,
+      "post": 2017,
+      "category" : "Car",
+      "model": "Mahindra",
+      "name": "XUV500",
+      "location": "Kalkaji"
+    },
+    {
+      "id" : "11",
+      "image" : "https://apollo-singapore.akamaized.net/v1/files/n0ll87kn4cih2-IN/image;s=200x400;q=60",
+      "price": 1020000,
+      "post": 2019,
+      "category" : "Car",
+      "model": "Mahindra",
+      "name": "Marazzo",
+      "location": "Tarakeswar"
+    },
+    {
+      "id" : "12",
+      "image" : "https://apollo-singapore.akamaized.net/v1/files/13y5s8w9p21t2-IN/image;s=300x600;q=60",
+      "price": 845000,
+      "post": 2020,
+      "category" : "Car",
+      "model": "Mahindra",
+      "name": "TUV 300 Plus",
+      "location": "Pandara"
+    },
+    {
+      "id" : "13",
+      "image" : "https://apollo-singapore.akamaized.net/v1/files/13y5s8w9p21t2-IN/image;s=300x600;q=60",
+      "price": 135000,
+      "post": 2009,
+      "category" : "Car",
+      "model": "Hyudai",
+      "name": "Hyudai-i10",
+      "location": "Shridhapuri"
+    },
+    {
+      "id" : "14",
+      "image" : "https://apollo-singapore.akamaized.net/v1/files/s42tn81x6vn02-IN/image;s=200x400;q=60",
+      "price": 460000,
+      "post": 2015,
+      "category" : "Car",
+      "model": "Hyudai",
+      "name": "Hyudai-i20",
+      "location": "Kamakhya"
+    },
+    {
+      "id" : "15",
+      "image" : "https://apollo-singapore.akamaized.net/v1/files/u4y7domzy05y2-IN/image;s=200x400;q=60",
+      "price": 485000,
+      "post": 2012,
+      "category" : "Car",
+      "model": "Hyudai",
+      "name": "Verna",
+      "location": "LB Nagar"
+    },
+    {
+      "id" : "16",
+      "image" : "https://apollo-singapore.akamaized.net/v1/files/ru2boy6k3nod-IN/image;s=200x400;q=60",
+      "price": 1350000,
+      "post": 2018,
+      "category" : "Car",
+      "model": "Hyudai",
+      "name": "Creta",
+      "location": "Sutarwadi"
+    }
+  ],
+
+  "Motorcycles" : [
+    {
+      "id" : "8",
+      "image" : "https://apollo-singapore.akamaized.net/v1/files/r5hl2adlvvba-IN/image;s=300x600;q=60",
+      "price": 62499,
+      "post": 2022,
+      "category" : "Bike",
+      "model": "Bajaj",
+      "name": "Pulsar 150",
+      "location": "Ram Nagar Coimbatore"
+    },
+    {
+      "id" : "1",
+      "image" : "https://apollo-singapore.akamaized.net/v1/files/r5hl2adlvvba-IN/image;s=300x600;q=60",
+      "price": 105000,
+      "post": 2021,
+      "category" : "Bike",
+      "model": "City",
+      "name": "Coco 60V",
+      "location": "Allipur, Visakhapatnam"
+    },
+    {
+      "id" : "2",
+      "image" : "https://apollo-singapore.akamaized.net/v1/files/jlwsvwtmb1i93-IN/image;s=300x600;q=60",
+      "price": 65000,
+      "post": 2021,
+      "category" : "Bike",
+      "model": "Bajaj",
+      "name": "CT 110",
+      "location": "Dariapur"
+    },
+    {
+      "id" : "4",
+      "image" : "https://apollo-singapore.akamaized.net/v1/files/37ib34f9bm7i-IN/image;s=200x400;q=60",
+      "price" : 120000,
+      "post": 2012,
+      "category" : "Bike",
+      "model": "Royal Enfield Bullet",
+      "name": "Bullet Classic",
+      "location": "Maqboolpura"
+    },
+    {
+      "id" : "3",
+      "image" : "https://apollo-singapore.akamaized.net/v1/files/75306t28lzle2-IN/image;s=300x600;q=60",
+      "price": 38000,
+      "post": 2013,
+      "category" : "Bike",
+      "model": "Bajaj",
+      "name": "Discover",
+      "location": "Mysore"
+    },
+    {
+      "id" : "5",
+      "image" : "https://apollo-singapore.akamaized.net/v1/files/18g0b88l7o08-IN/image;s=300x600;q=60",
+      "price": 220000,
+      "post": 2021,
+      "category" : "Bike",
+      "model": "Honda",
+      "name": "CB350 DLX Pro",
+      "location": "Puthiyakavu"
+    },
+    {
+      "id" : "6",
+      "image" : "https://apollo-singapore.akamaized.net/v1/files/f797awa8vgzq2-IN/image;s=300x600;q=60",
+      "price": 50000,
+      "post": 2019,
+      "category" : "Bike",
+      "model": "Honda",
+      "name": "Shine SP",
+      "location": "Torva Bilaspur"
+    },
+    {
+      "id" : "7",
+      "image" : "https://apollo-singapore.akamaized.net/v1/files/olr2xzzclfin2-IN/image;s=300x600;q=60",
+      "price": 75000,
+      "post": 2022,
+      "category" : "Bike",
+      "model": "Honda",
+      "name": "Shine SP",
+      "location": "Ameenpur Hyderabad"
+    },
+    {
+      "id" : "8",
+      "image" : "https://apollo-singapore.akamaized.net/v1/files/2y520ludr6fy1-IN/image;s=300x600;q=60",
+      "price": 400000,
+      "post": 2012,
+      "category" : "Bike",
+      "model": "Harley",
+      "name": "Davidson Supur",
+      "location": "Manoj Colony Ludhiyana"
+    },
+    {
+      "id" : "9",
+      "image" : "https://apollo-singapore.akamaized.net/v1/files/1i80eneq6j0g2-IN/image;s=300x600;q=60",
+      "price": 79999,
+      "post": 2022,
+      "category" : "Bike",
+      "model": "Viper",
+      "name": "ATV",
+      "location": "Manoj Colony Ludhiyana"
+    },
+    {
+      "id" : "10",
+      "image" : "https://apollo-singapore.akamaized.net/v1/files/z2inrqsg1hn7-IN/image;s=300x600;q=60",
+      "price": 69999,
+      "post": 2016,
+      "category" : "Bike",
+      "model": "Yamaha",
+      "name": "R15 V2",
+      "location": "Kalyan West, Bhiwandi"
+    },
+    {
+      "id" : "11",
+      "image" : "https://apollo-singapore.akamaized.net/v1/files/tgeyq7rooyrq3-IN/image;s=300x600;q=60",
+      "price": 24999,
+      "post": 2022,
+      "category" : "Bike",
+      "model": "50CC DIRT",
+      "name": "Hill Bike",
+      "location": "Kalyan West, Bhiwandi"
+    },
+    {
+      "id" : "12",
+      "image" : "https://apollo-singapore.akamaized.net/v1/files/63mwz7jtphsh3-IN/image;s=300x600;q=60",
+      "price" : 85000,
+      "post": 2022,
+      "category" : "Bike",
+      "model": "Honda",
+      "name": "CB Unicorn mond",
+      "location": "BK Guda Hyderabad"
+    }
+  ]
 }
